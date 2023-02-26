@@ -4,6 +4,6 @@
 
 ### check online
 
-[Check Online]('')
+[live url](https://react-grocery-buds.netlify.app/)
 
 ![Project Preview](./assets/ProjectPreview.png)
