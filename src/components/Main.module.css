@@ -1,0 +1,23 @@
+.container {
+  max-width: 50rem;
+  margin: 20rem auto;
+  padding: 2rem 4rem;
+  font-size: var(--medium-font);
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.clear {
+  background-color: white;
+  border: none;
+  color: red;
+}
+.clear:hover {
+  cursor: pointer;
+  color: rgb(150, 72, 72);
+}

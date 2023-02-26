@@ -1,0 +1,13 @@
+.heading {
+  text-align: center;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.color-red {
+  background-color: rgb(231, 168, 168);
+}
+
+.color-green {
+  background-color: rgb(115, 219, 155);
+}

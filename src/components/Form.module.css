@@ -1,0 +1,27 @@
+.input-container {
+  width: 100%;
+  text-align: center;
+  display: flex; /* set the container to use Flexbox layout */
+}
+input {
+  font-size: 1.4rem;
+}
+.input-container input {
+  background-color: var(--primary-color);
+  border: none;
+  padding: 1rem;
+  flex: 80%; /* set the input element to take up 80% of the available space */
+}
+
+.input-container .btn {
+  border: none;
+  background-color: #a5d5f8;
+  font-size: var(--medium-font);
+  flex: 20%; /* set the button element to take up the remaining 20% of the available space */
+}
+
+.btn:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
